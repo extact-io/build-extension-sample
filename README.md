@@ -1,5 +1,6 @@
 # build-extension-sample
 > 豆蔵デベロッパーサイトのブログ記事で利用しているサンプルアプリ
+
 > [!NOTE]
 > このリポジトリのサンプルコードはRed Hatのプリンシパルソフトウェアエンジニアの[Ladislav Thon](https://github.com/Ladicek)さん個人のリポジトリにある[cdi-extensions-demo](https://github.com/Ladicek/cdi-extensions-demo)をもとにしています。Ladislav Thonさんのコードに対し最新のQuarkusでは動かない箇所や理解しやすいように一部修正したものをサンプルコードとして使っています。
 > 
