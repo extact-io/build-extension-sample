@@ -1,5 +1,9 @@
 # build-extension-sample
 > 豆蔵デベロッパーサイトのブログ記事で利用しているサンプルアプリ
+> [!NOTE]
+> このリポジトリのサンプルコードはRed Hatのプリンシパルソフトウェアエンジニアの[Ladislav Thon](https://github.com/Ladicek)さん個人のリポジトリにある[cdi-extensions-demo](https://github.com/Ladicek/cdi-extensions-demo)をもとにしています。Ladislav Thonさんのコードに対し最新のQuarkusでは動かない箇所や理解しやすいように一部修正したものをサンプルコードとして使っています。
+> 
+
 
 ## 利用している記事
 - [xxxx](https://developer.mamezou-tech.com/blogs/2023/11/26/build-extension-sample/)
@@ -12,7 +16,7 @@
 
 ## ビルドと実行
 サンプルアプリのビルドにはMavenが必要です
-> [!IMPORTANT]
+> [!WARNING]
 > ビルドと実行にはHelidonサンプルはJava21以上が、QuarkusサンプルはJava17以上が必要です
 
 ### Helidonサンプルのビルドと実行
