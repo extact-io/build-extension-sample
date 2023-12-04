@@ -7,7 +7,7 @@
 
 
 ## 利用している記事
-- [xxxx](https://developer.mamezou-tech.com/blogs/2023/11/26/build-extension-sample/)
+- [CDI 4.0 Lite - Build compatible extensionsをサンプルで理解する](https://developer.mamezou-tech.com/blogs/2023/11/26/build-extension-sample/)
 
 ## contents 
 |プロジェクト|内容|
@@ -18,7 +18,7 @@
 ## ビルドと実行
 サンプルアプリのビルドにはMavenが必要です
 > [!WARNING]
-> ビルドと実行にはHelidonサンプルはJava21以上が、QuarkusサンプルはJava17以上が必要です
+> ビルドと実行にはHelidonサンプルはJava21以上がQuarkusサンプルはJava17以上が必要です
 
 ### Helidonサンプルのビルドと実行
 ``` shell
